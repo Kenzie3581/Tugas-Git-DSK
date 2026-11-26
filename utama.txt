@@ -1,3 +1,5 @@
 Halo, saya sedang menggunakan git untuk menyimpan repository proyek saya
 
 Di line ini saya menambahkan update -Marvel
+
+Di line ini saya juga menambahkan update kedua - Vincent
